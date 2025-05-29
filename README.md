@@ -50,6 +50,3 @@ npm start
 ```
 
 Acesse: http://localhost:3000.
-
-📄 Licença
-MIT License - consulte o arquivo LICENSE para detalhes.
